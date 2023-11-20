@@ -6,23 +6,21 @@ I'm William Mallady.
 - Electron | Go | Whatever
 
 ## 🚀 Current Ventures
-- Venturing into the cosmos of DevOps, modularization, and automation.
+- Venturing into the ether of DevOps, modularization, and automation.
 - Unraveling the mysteries of cross-platform packaging and distribution.
 
 ## 🛠️ Current Personal Projects
 
-- **Home Automation Odyssey**: Building a smart home sanctuary.
-- **Stuff-Tracking Chronicle**: Because knowing where everything is simplifies life.
+- **Home Automation Odyssey**: Currently automating lots of annoying household tasks with NFC tags.
+- **Command Center**: Building a digital command center for the family. With an animated cat?
 
-## 🎲 Beyond the Screen
+
+## 🧩 Beyond the Screen
 When the code takes a pause, find me:
 - Mastering board game strategies
 - Conquering outdoor adventures
 - Beer? 🍻
 - Cherishing moments with my feline companions 🐈
-
-## 🌱 Continuous Learning
-Currently immersed in the art of cross-platform packaging.
 
 ## 🌟 Gratitude
 A shoutout to [FreeCodeCamp](https://www.freecodecamp.org/), who guide me through the void. 
