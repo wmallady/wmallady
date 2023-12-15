@@ -11,7 +11,7 @@ I'm William Mallady.
 
 ## 🛠️ Current Personal Projects
 
-- **Home Automation Odyssey**: Currently automating lots of annoying household tasks with NFC [tags](https://github.com/mallady-household)
+- **Home Automation**: Currently automating lots of annoying household tasks with NFC [tags](https://github.com/mallady-household)
 - **Command Center**: Building a digital command center for the family. With an animated [cat?](https://github.com/mallady-household/command-center) 
 
 
