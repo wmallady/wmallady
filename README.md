@@ -5,9 +5,10 @@ I'm William Mallady.
 ## 💻 Tech Palette
 - JavaScript | Python | Go | Whatever
 
-## 🚀 Current Ventures
+## 🦊 Current Ventures
 - Venturing into the ether of DevOps, modularization, and automation.
 - Unraveling the mysteries of cross-platform packaging and distribution.
+- Fighting for an equitable FOSS future.
 
 ## 🛠️ Current Personal Projects
 
