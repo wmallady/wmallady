@@ -3,7 +3,7 @@
 I'm William Mallady.
 
 ## 💻 Tech Palette
-- Electron | Go | Whatever
+- JavaScript | Python | Go | Whatever
 
 ## 🚀 Current Ventures
 - Venturing into the ether of DevOps, modularization, and automation.
