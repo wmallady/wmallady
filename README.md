@@ -3,7 +3,9 @@
 I'm William Mallady.
 
 ## 💻 Tech Palette
-- JavaScript | Python | Go | Whatever
+- TypeScript | Python | Go | Whatever
+- TDD Always
+- FOSS Always
 
 ## 🦊 Current Ventures
 - Venturing into the ether of DevOps, modularization, and automation.
