@@ -30,7 +30,7 @@ A shoutout to [FreeCodeCamp](https://www.freecodecamp.org/), who guide me throug
 
 ## 🌐 Let's Connect!
 - GitHub: [wmallady](https://github.com/wmallady)
-- LinkedIn: [William Mallady](https://linkedin.com/in/wmallady)
+- LinkedIn: [William Mallady]([https://linkedin.com/in/wmallady)](https://www.linkedin.com/in/william-mallady-45914816a/)
 - Mastodon.social: [FoxTheHuman](https://mastodon.social/@FoxTheHuman)
 
 🚀 [Support FreeCodeCamp](https://www.freecodecamp.org/donate) and empower more aspiring coders and create digital equity! ☮
