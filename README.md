@@ -3,24 +3,25 @@
 I'm William Mallady.
 
 ## 💻 Tech Palette
-- TypeScript | Python | Go | Whatever
+- React | Node.js | Python | Go | Whatever
 - TDD Always
 - FOSS Always
 
 ## 🦊 Current Ventures
-- Venturing into the ether of DevOps, modularization, and automation.
-- Unraveling the mysteries of cross-platform packaging and distribution.
+- Creating a personnel management application with Microsoft Entra ID SSO in REact
+- Creating mass communication application in React
 - Fighting for an equitable FOSS future.
 
 ## 🛠️ Current Personal Projects
 
-- **Home Automation**: Currently automating lots of annoying household tasks with NFC [tags](https://github.com/mallady-household)
+- **MTG Smart DeckBoxes : Making Magic the Gathering deck boxes "Smart" with NFC Tags!
 - **Command Center**: Building a digital command center for the family. With an animated [cat?](https://github.com/mallady-household/command-center) 
 
 ## 🧩 Beyond the Screen
 When I'm not at work:
 - Cats! 😼
 - Flopping all the cards 🃟
+- Boarding all the games 
 - BIKES! 🚲
 - Beer? 🍻
 
@@ -29,7 +30,7 @@ When I'm not at work:
 A shoutout to [FreeCodeCamp](https://www.freecodecamp.org/), who guide me through the void. 
 
 ## 🌐 Let's Connect!
-- GitHub: [wmallady](https://github.com/wmallady)
+
 - LinkedIn: [William Mallady](https://www.linkedin.com/in/william-mallady-45914816a/)
 - Mastodon.social: [FoxTheHuman](https://mastodon.social/@FoxTheHuman)
 
