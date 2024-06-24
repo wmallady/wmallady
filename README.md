@@ -12,7 +12,7 @@ I'm William Mallady.
 
 ## 🛠️ Current Personal Projects
 
-- **MTG Smart DeckBoxes : Making Magic the Gathering deck boxes "Smart" with NFC Tags!
+- **MTG Smart DeckBoxes** : Making Magic the Gathering deck boxes "Smart" with NFC Tags!
 - **Command Center**: Building a digital command center for the family. With an animated [cat?](https://github.com/mallady-household/command-center) 
 
 ## 🧩 Beyond the Screen
