@@ -6,7 +6,7 @@ I'm William Mallady.
 - React | Node.js | Python | Go | Whatever
 
 ## 🦊 Current Ventures
-- Creating a personnel management application with Microsoft Entra ID SSO in REeact
+- Creating a personnel management application with Microsoft Entra ID SSO in React
 - Creating mass communication application in React
 - Fighting for an equitable FOSS future.
 
