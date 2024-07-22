@@ -13,7 +13,7 @@ I'm William Mallady.
 ## 🛠️ Current Personal Projects
 
 - **MTG Smart DeckBoxes** : Making Magic the Gathering deck boxes "Smart" with NFC Tags!
-- **Buidling a Personal Darkroom**: Maybe more than personal someday?
+- **Building a Personal Darkroom**: Maybe more than personal someday?
 
 ## 🧩 Beyond the Screen
 When I'm not at work:
