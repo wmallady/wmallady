@@ -13,13 +13,12 @@ I'm William Mallady.
 ## 🛠️ Current Personal Projects
 
 - **MTG Smart DeckBoxes** : Making Magic the Gathering deck boxes "Smart" with NFC Tags!
-- **Command Center**: Building a digital command center for the family. With an animated [cat?](https://github.com/mallady-household/command-center) 
+- **Buidling a Personal Dark**: Maybe more than personal someday?
 
 ## 🧩 Beyond the Screen
 When I'm not at work:
 - Cats! 😼
-- Flopping all the cards 🃟
-- Boarding all the games 
+- Film and Digital Photographizing 📷
 - BIKES! 🚲
 - Beer? 🍻
 
