@@ -12,8 +12,9 @@ I'm William Mallady.
 
 ## 🛠️ Current Personal Projects
 
-- **MTG Smart DeckBoxes** : Making Magic the Gathering deck boxes "Smart" with NFC Tags!
+- **Pesonal Blog** : Make and run a minimalistic blog in Hugo
 - **Building a Personal Darkroom**: Maybe more than personal someday?
+- **NFC-Assisted Family Activity Tracker**: sort of a 'Weasley Clock'
 
 ## 🧩 Beyond the Screen
 When I'm not at work:
