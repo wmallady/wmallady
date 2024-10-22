@@ -3,7 +3,7 @@
 I'm William Mallady.
 
 ## 💻 Tech Palette
-- React | Node.js | Python | Go | Whatever
+- JavaScript | Python | Go | Whatever
 
 ## 🦊 Current Ventures
 - Creating a personnel management application with Microsoft Entra ID SSO in React
