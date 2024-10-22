@@ -6,9 +6,9 @@ I'm William Mallady.
 - JavaScript | Python | Go | Whatever
 
 ## 🦊 Current Ventures
-- Creating a personnel management application with Microsoft Entra ID SSO in React
-- Creating mass communication application in React
-- Fighting for an equitable FOSS future.
+- Exploring the 'joys' of hosting projects
+- Polishing up my IoT skills
+- Building a secure, simple contract management app
 
 ## 🛠️ Current Personal Projects
 
