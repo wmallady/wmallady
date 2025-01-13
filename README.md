@@ -3,7 +3,7 @@
 I'm William Mallady.
 
 ## 💻 Tech Palette
-- JavaScript | Python | Go | Whatever
+- TypeScript | Python | Go | Whatever
 
 ## 🦊 Current Ventures
 - Creating file / metadata management Electron app
