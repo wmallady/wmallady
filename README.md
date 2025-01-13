@@ -6,23 +6,22 @@ I'm William Mallady.
 - JavaScript | Python | Go | Whatever
 
 ## 🦊 Current Ventures
-- Exploring the 'joys' of hosting projects
+- Creating file / metadata management Electron app
 - Polishing up my IoT skills
-- Building a secure, simple contract management app
+- Exploring opportunities for streaming
 
 ## 🛠️ Current Personal Projects
 
 - **Pesonal Blog** : Make and run a minimalistic blog in Hugo
-- **Building a Personal Darkroom**: Maybe more than personal someday?
-- **NFC-Assisted Family Activity Tracker**: sort of a 'Weasley Clock'
+- **Starting a Streaming Channel**: In the preliminary stages
+- **NFC-Assisted Doodads**: Automating things around the house and making fancy business cards! 
 
 ## 🧩 Beyond the Screen
 When I'm not at work:
 - Cats! 😼
-- Film and Digital Photographizing 📷
+- Digital Photographizing and Broadcasting 📷
+- TCGs of all flavors
 - BIKES! 🚲
-- Beer? 🍻
-
 
 ## 🌟 Gratitude
 A shoutout to [FreeCodeCamp](https://www.freecodecamp.org/), who guide me through the void. 
