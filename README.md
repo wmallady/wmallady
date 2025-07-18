@@ -1,16 +1,16 @@
 
 ## 💻 Tech Palette
-- JavaScript | Python | Go | Whatever
+- MERN | Go | Python | Whatever
 
 ## 🦊 Current Ventures
-- [Queer Pussy](https://queerpussy.art)
-- Self-hosted internet radio
-- Creating Opportunities for Queer Outreach
+- [Queer Pussy](https://queerpussy.art) - Photography Project seeking to highlight queers and felines.
+- Improving my Golang by building business apps :=
 
-## 🧩 Beyond the Screen
-When I'm not at work:
+
+**When I'm not at work:**
 - Cats! 😼
 - Digital and Film Photography 📷
+- Hadoken-ing 🤜
 - TCGs of all flavors
 - BIKES! 🚲
 
