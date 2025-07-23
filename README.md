@@ -1,9 +1,9 @@
 
 ## 💻 Tech Palette
-- MERN | Go | Python | Whatever
+- Go | MERN | Python | Whatever
 
 ## 🦊 Current Ventures
-- [Queer Pussy](https://queerpussy.art) - Photography Project seeking to highlight queers and felines.
+- Coffers - a personal budgeting app with a go backend. 
 - Improving my Golang by building business apps :=
 
 
