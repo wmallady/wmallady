@@ -18,7 +18,7 @@
 
 ## 🌐 Let's Connect!
 
-- LinkedIn: [William Mallady](https://www.linkedin.com/in/william-mallady-45914816a/)
+- LinkedIn: [Billie Mallady](https://www.linkedin.com/in/william-mallady-45914816a/)
 - Website: [Billiebot](https://billiebot.dev)
 - Email [wmallady@gmail.com](mailto:wmallady@gmail.com)
 
