@@ -10,7 +10,7 @@
 
 **When I'm not at work:**
 - Cats! 😼
-- Digital and Film Photography 📷
+- Digital and Film [Photography](https://queerpussy.art) 📷
 - Hadoken-ing 🤜
 - TCGs of all flavors
 - BIKES! 🚲
