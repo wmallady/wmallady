@@ -26,4 +26,4 @@
 ## 🌟 Gratitude
 A shoutout to [FreeCodeCamp](https://www.freecodecamp.org/), who guide me through the void. 
 
-🚀 [Support FreeCodeCamp](https://www.freecodecamp.org/donate) and empower more aspiring coders and create digital equity!
+🚀 [Support FreeCodeCamp](https://www.freecodecamp.org/donate) to empower more aspiring coders and create digital equity!
