@@ -5,6 +5,7 @@
 ## 🦊 Current Ventures
 - Coffers - a personal budgeting app with a go backend. 
 - Improving my Golang by building business apps :=
+- [Billiebot](https://billiebot.dev)
 
 
 **When I'm not at work:**
